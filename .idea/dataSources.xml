@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="bilion" uuid="f539efca-f117-49f0-94e5-b85b19e29d19">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\35498\IdeaProjects\WhoWantsToBeAMillionaire\bilion.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
